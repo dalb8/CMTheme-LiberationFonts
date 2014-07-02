@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<familyset>
+    <family>
+        <nameset>
+            <name>sans-serif</name>
+            <name>arial</name>
+            <name>helvetica</name>
+            <name>tahoma</name>
+            <name>verdana</name>
+        </nameset>
+        <fileset>
+            <file>LiberationSans-Regular.ttf</file>
+            <file>LiberationSans-Bold.ttf</file>
+            <file>LiberationSans-Italic.ttf</file>
+            <file>LiberationSans-BoldItalic.ttf</file>
+        </fileset>
+    </family>
+    
+    <family>
+        <nameset>
+            <name>serif</name>
+        </nameset>
+        <fileset>
+            <file>LiberationSerif-Regular.ttf</file>
+            <file>LiberationSerif-Bold.ttf</file>
+            <file>LiberationSerif-Italic.ttf</file>
+            <file>LiberationSerif-BoldItalic.ttf</file>
+        </fileset>
+    </family>
+
+    <family>
+        <nameset>
+            <name>monospace</name>
+        </nameset>
+        <fileset>
+            <file>LiberationMono-Regular.ttf</file>
+        </fileset>
+    </family>
+    
+    <family>
+        <nameset>
+            <name>sans-serif-condensed</name>
+        </nameset>
+        <fileset>
+            <file>LiberationSansNarrow-Regular.ttf</file>
+            <file>LiberationSansNarrow-Bold.ttf</file>
+            <file>LiberationSansNarrow-Italic.ttf</file>
+            <file>LiberationSansNarrow-BoldItalic.ttf</file>
+        </fileset>
+    </family>
+    
+</familyset>
