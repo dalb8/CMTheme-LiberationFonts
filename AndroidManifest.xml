@@ -8,7 +8,7 @@
 
     <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="19" />
 
-    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Linux Libertine Fonts">
+    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Liberation Fonts">
     </application>
 
     <meta-data android:name="org.cyanogenmod.theme.name" android:value="Liberation Fonts"/>
